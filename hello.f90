@@ -7,6 +7,6 @@ program hello
  print *, "Enter your surname" 
  read *, surname
 
- print *, "Hello ", name, surname, "!" 
+ print *, "Hello world ", name, surname, "!" 
 end program hello
 
